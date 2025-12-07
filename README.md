@@ -1,4 +1,5 @@
-<img width="389" height="21" alt="image" src="https://github.com/user-attachments/assets/4d752edb-3056-4b02-9242-c68761c44ed7" /># Salary_Analysis_By_Role_and_Country_Excel_Project
+Salary_Analysis_By_Role_and_Country_Excel_Project
+
 Excel-based salary analysis for major data roles across countries. Includes formula-driven metrics, pivot tables, and a unified slicer for dynamic filtering. Helps users compare salary trends, role distribution, and key insights for data-driven decisions.
 
 ## Dataset used
@@ -53,7 +54,10 @@ By doing this manually in Excel, I strengthened my understanding of basic EDA op
 
 Even though I created manual tables using formulas, I used pivot tables to make the analysis more flexible and interactive. Pivot tables allow me to quickly view and compare any job title in any country without creating multiple manual tables. 
 
-With a slicer, I can filter the data easily and examine different roles or countries in seconds. Pivot tables help keep the Excel file organized and avoid making it heavy or cluttered, especially when analyzing large datasets or multiple dimensions. This makes reviewing and comparing trends much faster and easier than using only formulas.
+With **slicers**, I can filter the data easily and examine different roles or countries in seconds. Pivot tables help keep the Excel file organized and avoid making it heavy or cluttered, especially when analyzing large datasets or multiple dimensions. This makes reviewing and comparing trends much faster and easier than using only formulas.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7f931e98-71a0-484a-8bd9-877ee427f361" />
+
 
 This analysis shows the salary data for Data Analyst, Data Engineer, and Data Scientist roles in the United States. You can change the country or the job role using the slicer, and all pivot tables will update. This makes it easy to explore different roles and countries without creating extra tables. The goal is to see how each role behaves in terms of total salaries, average pay, minimum and maximum salaries, and number of jobs.
 
